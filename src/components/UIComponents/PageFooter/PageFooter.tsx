@@ -5,9 +5,9 @@ function PageFooter(): JSX.Element {
 		<footer>
 			<p>
 				Created by <a className="rising-background"
-					href="https://zakariyaq313.github.io/my-website/"
+					href="https://github.com/Mister-Gallardo?tab=repositories"
 					target="_blank" rel="noreferrer">
-						Muhammad Zakariya
+						Amir Azizov
 				</a>
 			</p>
 		</footer>
