@@ -1,6 +1,6 @@
 {
-  "name": "nightly-notes-react",
-  "homepage": "https://zakariyaq313.github.io/nightly-notes-react/",
+  "name": "dark-notes",
+  "homepage": "https://github.com/Mister-Gallardo/Dark-Notes.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +12,7 @@
     "@types/node": "^16.11.29",
     "@types/react": "^18.0.6",
     "@types/react-dom": "^18.0.0",
+    "gh-pages": "^4.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-redux": "^8.0.1",
@@ -46,8 +47,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
